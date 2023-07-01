@@ -1,6 +1,6 @@
 const cookieParser = require('cookie-parser');
 const express = require('express')
-const dbConection = require('../database/config')
+const dbConection = require('../Database/config')
 //Instalar el paquete dotenv
 const bodyParser = require('body-parser');
 const cors = require('cors');
